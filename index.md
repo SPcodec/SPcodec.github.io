@@ -11,7 +11,7 @@ At the beginning of a player's turn, they draw an Event card.
 When the New Year card is drawn, all event cards are shuffled back into the deck with the New Year card on top of the 5 face down event cards and the game continues with the new deck.
 
 ```markdown
-using System;
+'using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -79,7 +79,7 @@ namespace ConsoleUI
             }
         }
     }
-}
+}'
 
 ```
 
