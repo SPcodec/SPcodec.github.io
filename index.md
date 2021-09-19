@@ -4,7 +4,7 @@ The codes I have written for practise.
 
 ### Markdown
 
-[Catan event cards](https://github.com/SPcodec/Catan_Event_Cards/tree/master/Catan_Event_Cards)
+[Catan event cards](https://github.com/SPcodec/Catan_Event_Cards)
 
 ```markdown
 
