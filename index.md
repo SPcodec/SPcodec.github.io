@@ -1,14 +1,12 @@
-## Welcome to GitHub Pages
+I am most comfortable with C#, but I can adapt to using other languages like Python or Javascript if needed.
 
-The codes I have written for practise.
+[Catan event cards - C#](https://github.com/SPcodec/Catan_Event_Cards)
 
-### Markdown
+[How many coins? - C#](https://github.com/SPcodec/HowManyCoins)
 
-[Catan event cards](https://github.com/SPcodec/Catan_Event_Cards)
+[How many coins? - Python](https://github.com/SPcodec/HowManyCoins_Python)
 
-```markdown
-
-```
+[Apply changes to all InDesign documents within a book - Javascript](https://github.com/SPcodec/InDesignBookApply)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
