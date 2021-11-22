@@ -1,5 +1,9 @@
 I am most comfortable with C#, but I can adapt to using other languages like Python or Javascript if needed.
 
+[SQLWinForm - C#](https://github.com/SPcodec/SQLWinForm)
+
+[GitHub and sunrise-sunset API - C#](https://github.com/SPcodec/GitAndSunAPI)
+
 [Catan event cards - C#](https://github.com/SPcodec/Catan_Event_Cards)
 
 [How many coins? - C#](https://github.com/SPcodec/HowManyCoins)
