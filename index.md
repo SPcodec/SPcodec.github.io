@@ -1,4 +1,4 @@
-I am most comfortable with C#, but I can adapt to using other languages like Python or Javascript if needed.
+I am most comfortable with C#, but I have used other languages when needed.
 
 [SQLWinForm - C#](https://github.com/SPcodec/SQLWinForm)  
 WinForm that connects to a SQL database.
