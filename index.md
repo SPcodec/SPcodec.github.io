@@ -16,4 +16,4 @@ Calculates the smallest number of coins needed to make the amount of money.
 Calculates the smallest number of coins needed to make the amount of money.
 
 [Apply changes to all InDesign documents within a book - Javascript](https://github.com/SPcodec/InDesignBookApply)  
-Javascript code used for applying actions to all Documents (.indd) within a Book (.indb).
+Javascript code to automate common tasks in all Documents (.indd) within a Book (.indb).
